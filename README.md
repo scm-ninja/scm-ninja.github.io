@@ -1,4 +1,4 @@
 # scm-ninja.github.io
 Trying out Pages
 
-just some changes..
+just some more changes..
