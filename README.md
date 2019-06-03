@@ -19,3 +19,6 @@ another modification
 		  
 #######
 		  sevenths
+		  
+### Copyright
+Copyright notice
