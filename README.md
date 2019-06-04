@@ -25,3 +25,6 @@ Copyright notice
 
 ### How to Continue
 fork 
+
+## Add a line for rebase
+add a line  for rebase example
