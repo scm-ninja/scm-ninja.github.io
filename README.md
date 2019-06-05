@@ -27,4 +27,4 @@ Copyright notice
 fork 
 
 ## Add a line for rebase
-add a line  for rebase example
+add a line  for rebase example All rights reserved
