@@ -1,2 +1,3 @@
-# scm-ninja.github.io
-Trying out Pages
+# Starter Web Repo
+
+This si README file
